@@ -33,6 +33,13 @@ metacity &
 #nautilus &
 ```    
 
+
+- Give *execute* permission to *xstartup*:   
+
+```console
+[eecheverria@PEB-SRVNIX-STILETTO ~]$ chmod  u+x ./vnc/xstartup
+```  
+
 - Go to your local PC and download [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)   
 
 
